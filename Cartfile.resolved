@@ -1,0 +1,3 @@
+github "Alamofire/Alamofire" "2.0.1"
+github "meteochu/HanekeSwift" "0.10.0"
+github "SwiftyJSON/SwiftyJSON" "2.3.0"
